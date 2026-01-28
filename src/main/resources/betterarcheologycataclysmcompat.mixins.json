@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.betterarcheologycataclysmcompat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "betterarcheologycataclysmcompat.refmap.json",
+  "mixins": [
+    "SoaringWindsEnchantmentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

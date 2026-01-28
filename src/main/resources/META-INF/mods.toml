@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/EarthKiii/BetterArcheologyCataclysmCompat/issues"
+
+[[mods]]
+modId="betterarcheologycataclysmcompat"
+version="${file.jarVersion}"
+displayName="Better Archeology Cataclysm Compat"
+logoFile="logo.png"
+credits="Created for compatibility between Better Archeology and Cataclysm"
+authors="EarthKiii"
+description='''
+Compatibility mod that allows the Soaring Winds enchantment from Better Archeology 
+to work with the Ignitium Elytra chestplate from the Cataclysm mod.
+'''
+displayURL="https://github.com/EarthKiii/BetterArcheologyCataclysmCompat"
+
+[[mixins]]
+config="betterarcheologycataclysmcompat.mixins.json"
+
+[[dependencies.betterarcheologycataclysmcompat]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.betterarcheologycataclysmcompat]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.betterarcheologycataclysmcompat]]
+modId="betterarcheology"
+mandatory=true
+versionRange="[1.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.betterarcheologycataclysmcompat]]
+modId="cataclysm"
+mandatory=true
+versionRange="[1.0,)"
+ordering="AFTER"
+side="BOTH"
