@@ -4,7 +4,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net/)
 [![Forge](https://img.shields.io/badge/Forge-47.3.0+-orange.svg)](https://files.minecraftforge.net/)
 
-A lightweight Minecraft Forge 1.20.1 compatibility mod that enables the **Soaring Winds** enchantment from [Better Archeology Reforged](https://www.curseforge.com/minecraft/mc-mods/betterarcheology-reforged) to work with the **Ignitium Elytra Chestplate** from [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm).
+A lightweight Minecraft Forge 1.20.1 compatibility mod that enables the **Soaring Winds** enchantment from [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology) to work with the **Ignitium Elytra Chestplate** from [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm).
 
 ## Features
 
@@ -23,8 +23,8 @@ A lightweight Minecraft Forge 1.20.1 compatibility mod that enables the **Soarin
 ## Installation
 
 1. Download and install the required mods:
-   - [Better Archeology Reforged](https://www.curseforge.com/minecraft/mc-mods/betterarcheology-reforged)
-   - [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm)
+   - [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+   - [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)
 2. Download this compatibility mod
 3. Place all mod files in your `mods` folder
 4. Launch Minecraft with Forge 1.20.1
@@ -71,8 +71,8 @@ This mod is released under the MIT License. See LICENSE file for details.
 
 ## Credits
 
-- **Better Archeology Reforged** by [Pandarix](https://www.curseforge.com/members/pandarix)
-- **L_Ender's Cataclysm** by [L_Ender](https://www.curseforge.com/members/l_ender)
+- **Better Archeology** by [ruven](https://www.curseforge.com/members/ruven)
+- **L_Ender's Cataclysm** by [mcl_ender](https://www.curseforge.com/members/mcl_ender)
 
 Special thanks to the Forge modding community for their excellent documentation and tools.
 
